@@ -1,0 +1,167 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/jRfDF2n/1690383625521-17kohli1-Ej8-N8-H.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 2000000,
+    "rating": "9.5"
+  },
+  {
+    "playerId": 2,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/LzCZGKn/image-195677-1718784020.webp",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 1800000,
+    "rating": "9.0"
+  },
+  {
+    "playerId": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/4SL0Z15/60783660873ea9455711a937-Th-Ben-Stokes-Celebrates.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-Handed Batsman",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 2500000,
+    "rating": "9.2"
+  },
+  {
+    "playerId": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/tbXKJbF/download.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 1900000,
+    "rating": "8.8"
+  },
+  {
+    "playerId": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/zmKf4xn/download.jpg",
+    "role": "Bowler",
+    "battingType": "N/A",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 2200000,
+    "rating": "9.4"
+  },
+  {
+    "playerId": 6,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/KrDy8NT/download.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 2400000,
+    "rating": "9.1"
+  },
+  {
+    "playerId": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/qxYG8tf/download.jpg",
+    "role": "Bowler",
+    "battingType": "N/A",
+    "bowlingType": "Right-Arm Leg Spin",
+    "biddingPrice": 2100000,
+    "rating": "8.9"
+  },
+  {
+    "playerId": 8,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/7C969z0/download.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-Handed Batsman",
+    "bowlingType": "Left-Arm Orthodox",
+    "biddingPrice": 1700000,
+    "rating": "8.7"
+  },
+  {
+    "playerId": 9,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/ZGwCFKK/David-Warner-aus.jpg",
+    "role": "Batsman",
+    "battingType": "Left-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 2300000,
+    "rating": "9.0"
+  },
+  {
+    "playerId": 10,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/LDKKp6B/download.jpg",
+    "role": "Bowler",
+    "battingType": "N/A",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 2000000,
+    "rating": "9.3"
+  },
+  {
+    "playerId": 11,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://i.ibb.co.com/gzvCsrg/1707738592497-savsavava.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 2100000,
+    "rating": "9.2"
+  },
+  {
+    "playerId": 12,
+    "name": "Mohammed Shami",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qF53Sjw/download.jpg",
+    "role": "Bowler",
+    "battingType": "N/A",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 1900000,
+    "rating": "8.8"
+  },
+  {
+    "playerId": 13,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/pwZT0sT/download.jpg",
+    "role": "Bowler",
+    "battingType": "N/A",
+    "bowlingType": "Left-Arm Fast",
+    "biddingPrice": 2100000,
+    "rating": "9.0"
+  },
+  {
+    "playerId": 14,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/SXXdK4p/2410.webp",
+    "role": "All-Rounder",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "Right-Arm Off Spin",
+    "biddingPrice": 1800000,
+    "rating": "8.6"
+  },
+  {
+    "playerId": 15,
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "image": "https://i.ibb.co.com/nLzmW1V/105168391.webp",
+    "role": "Batsman",
+    "battingType": "Right-Handed Batsman",
+    "bowlingType": "N/A",
+    "biddingPrice": 1500000,
+    "rating": "8.5"
+  }
+]
